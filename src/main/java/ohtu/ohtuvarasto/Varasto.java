@@ -32,7 +32,8 @@ public class Varasto {
     }
 
     // --- ottavat aksessorit eli getterit: ---
-    public double getSaldo() {
+    public double getSaldo()
+    {
         return saldo;
     }
 
